@@ -1,4 +1,4 @@
-# Kake Smells Like Cheetos
-- Im kake
+# Fake Smells Like Cheetos
+- Im fake
 - I code in c#
-- TSS Kake#0001
+- TSS Fake#0001
