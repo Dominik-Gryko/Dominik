@@ -1,4 +1,5 @@
-# Fake Smells Like Cheetos
-- Im fake
-- I code in c#
-- TSS Fake#0001
+# Dominik
+- Im Dominik
+- I coded in C# and Python
+- ᴅᴏᴍɪɴɪᴋ#9881
+
